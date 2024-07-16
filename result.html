@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="main.css" />
+
+    <title>Result</title>
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <section class="section-results">
+          <style>
+            .section-results {
+              background-color: rgb(243, 240, 240);
+            }
+          </style>
+          <img
+            id="icon_grade"
+            src="./assets/icons8-happy-100.png"
+            alt=""
+            style="margin-left: 40%"
+          />
+          <hr />
+          <h1 class="section-results__title" id="section-results__title">
+            Congratulations you have passed this test
+          </h1>
+          <div class="section-results__content">
+            <article class="result-box">
+              <div class="result-box__top">
+                <img src="./assets/icons8-correct.svg" alt="" />
+                <span class="count count--green" id="count count--green"
+                  >0</span
+                >
+              </div>
+              <span class="result-box__title result-box__title--green"
+                >Correct Answers</span
+              >
+            </article>
+            <article class="result-box">
+              <div class="result-box__top">
+                <img src="./assets/icons8-wrong.svg" alt="" />
+                <span class="count count--red" id="count count--red">O</span>
+              </div>
+              <span class="result-box__title result-box__title--red"
+                >Wrong Answers</span
+              >
+            </article>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script type="module" src="Result.js"></script>
+  </body>
+</html>

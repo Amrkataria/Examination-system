@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="main.css" />
+
+    <title>Sign up</title>
+  </head>
+  <body>
+    <main>
+      <section class="section-signup">
+        <h1>Sign up to Take the Test</h1>
+
+        <div class="section-signup__layout">
+          <img
+            class="section-signup__img"
+            src="assets/Exams-bro.svg"
+            alt="Student"
+          />
+          
+          <form class="form-signup">
+            <div class="form-signup__field">
+              <label class="form-signup__label" for="first-name">
+                First name
+              </label>
+              <input
+                class="form-signup__input"
+                type="text"
+                id="first-name"
+                name="first-name"
+              />
+              <span class="form-signup__err form-signup__err--firstname"></span>
+            </div>
+            <div class="form-signup__field">
+              <label class="form-signup__label" for="last-name"
+                >Last name</label
+              >
+              <input
+                class="form-signup__input"
+                type="text"
+                id="last-name"
+                name="last-name"
+              />
+              <span class="form-signup__err form-signup__err--lastname"></span>
+            </div>
+            <div class="form-signup__field">
+              <label class="form-signup__label" for="email"
+                >Email address</label
+              >
+              <input
+                class="form-signup__input"
+                type="email"
+                id="email"
+                name="email"
+              />
+              <span class="form-signup__err form-signup__err--email"></span>
+            </div>
+            <div class="form-signup__field">
+              <label class="form-signup__label" for="password">Password</label>
+              <input
+                class="form-signup__input"
+                type="password"
+                id="password"
+                name="password"
+              />
+              <span class="form-signup__err form-signup__err--password"></span>
+            </div>
+            <div class="form-signup__field">
+              <label class="form-signup__label" for="confirm-password">
+                Confirm Password
+              </label>
+              <input
+                class="form-signup__input"
+                type="password"
+                id="confirm-password"
+                name="confirm-password"
+              />
+              <span class="form-signup__err form-signup__err--confirm-pass">
+              </span>
+            </div>
+
+            <button class="btn form-signup__btn">Sign up</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="js/index.js"></script>
+  </body>
+</html>

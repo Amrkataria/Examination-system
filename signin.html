@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="main.css" />
+
+    <title>Sign in</title>
+  </head>
+  <body>
+    <main>
+      <section class="section-signin">
+        <h1>Sign in</h1>
+        <div class="section-signup__layout">
+          <img
+            class="section-signup__img"
+            src="assets/img1.svg"
+            alt="Student"
+          />
+        <form class="form-signin"  style="background-color: rgb(243,240,240);">
+          
+          <div class="form-signin__field">
+            <label class="form-signin__label" for="email">Email address</label>
+            <input
+              class="form-signin__input"
+              type="email"
+              id="email"
+              name="email"
+            />
+            
+            <span class="form-signin__err form-signin__err--email"></span>
+          </div>
+          <div class="form-signin__field" style="margin-top: 8%;">
+            <label class="form-signin__label" for="password">Password</label>
+            <input
+              class="form-signin__input"
+              type="password"
+              id="password"
+              name="password"
+            />
+            
+            <span class="form-signin__err form-signin__err--password"></span>
+          </div>
+          
+
+          <button class="btn form-signin__btn" style="margin-top:12%">Sign in</button>
+        </form>
+      </section>
+    </main>
+
+    <script type="module" src="js/index.js"></script>
+  </body>
+</html>

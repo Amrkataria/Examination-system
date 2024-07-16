@@ -1,0 +1,150 @@
+
+ 
+   [
+    {
+      "id": "1",
+      "questionText": "What is 2 + 2?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": "4"
+    },
+    {
+      "id": "2",
+      "questionText": "What is the capital of France?",
+      "options": ["Berlin", "London", "Paris", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "id": "3",
+      "questionText": "Which is the largest planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "id": "4",
+      "questionText": "What is the boiling point of water?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "correctAnswer": "100°C"
+    },
+    {
+      "id": "5",
+      "questionText": "Who wrote 'Hamlet'?",
+      "options": [
+        "Charles Dickens",
+        "J.K. Rowling",
+        "William Shakespeare",
+        "Mark Twain"
+      ],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "id": "6",
+      "questionText": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correctAnswer": "2"
+    },
+    {
+      "id": "7",
+      "questionText": "What is the square root of 81?",
+      "options": ["7", "8", "9", "10"],
+      "correctAnswer": "9"
+    },
+    {
+      "id": "8",
+      "questionText": "Which is the longest river?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "correctAnswer": "Nile"
+    },
+    {
+      "id": "9",
+      "questionText": "Who painted the Mona Lisa?",
+      "options": [
+        "Vincent Van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "id": "10",
+      "questionText": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "correctAnswer": "Tokyo"
+    },
+    {
+      "id": "11",
+      "questionText": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "correctAnswer": "Diamond"
+    },
+    {
+      "id": "12",
+      "questionText": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Pb", "Fe"],
+      "correctAnswer": "Au"
+    },
+    {
+      "id": "13",
+      "questionText": "How many continents are there?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": "7"
+    },
+    {
+      "id": "14",
+      "questionText": "Who is known as the father of computers?",
+      "options": [
+        "Albert Einstein",
+        "Charles Babbage",
+        "Isaac Newton",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": "Charles Babbage"
+    },
+    {
+      "id": "15",
+      "questionText": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "id": "16",
+      "questionText": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correctAnswer": "Canberra"
+    },
+    {
+      "id": "17",
+      "questionText": "What is the largest mammal?",
+      "options": ["Elephant", "Blue Whale", "Great White Shark", "Giraffe"],
+      "correctAnswer": "Blue Whale"
+    },
+    {
+      "id": "18",
+      "questionText": "What is the speed of light?",
+      "options": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "450,000 km/s",
+        "600,000 km/s"
+      ],
+      "correctAnswer": "300,000 km/s"
+    },
+    {
+      "id": "19",
+      "questionText": "Who invented the telephone?",
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Henry Ford"
+      ],
+      "correctAnswer": "Alexander Graham Bell"
+    },
+    {
+      "id": "20",
+      "questionText": "Which element is said to keep bones strong?",
+      "options": ["Hydrogen", "Oxygen", "Calcium", "Nitrogen"],
+      "correctAnswer": "Calcium"
+    }
+  ]
+

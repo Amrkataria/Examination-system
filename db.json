@@ -1,0 +1,303 @@
+{
+  "users": [
+    {
+      "firstName": "Ahmed",
+      "lastName": "Hosny",
+      "email": "ahmed707hosny@gmail.com",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "firstName": "Ahmed",
+      "lastName": "Hosny",
+      "email": "ahmed606hosny@gmail.com",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "firstName": "Ahmed",
+      "lastName": "Hosny",
+      "email": "test@test.com",
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "firstName": "amr",
+      "lastName": "kat",
+      "email": "amrking935@yahoo.com",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "firstName": "amr",
+      "lastName": "kat",
+      "email": "amrkataria@gmail.com",
+      "password": "12345678",
+      "id": 5
+    },
+    {
+      "firstName": "amr",
+      "lastName": "kat",
+      "email": "amrking1234@gmail.com",
+      "password": "12345678",
+      "id": 6
+    },
+    {
+      "firstName": "amr",
+      "lastName": "kat",
+      "email": "amrking12345678@gmail.com",
+      "password": "12345678",
+      "id": 7
+    },
+    {
+      "firstName": "amr",
+      "lastName": "kat",
+      "email": "sasa@yahoo.com",
+      "password": "12345678",
+      "id": 8
+    },
+    {
+      "firstName": "amr",
+      "lastName": "kat",
+      "email": "temp@yahoo.com",
+      "password": "12345678",
+      "id": 9
+    },
+    {
+      "firstName": "asd",
+      "lastName": "asd",
+      "email": "asd@asd.com",
+      "password": "asdasdas",
+      "id": 10
+    },
+    {
+      "firstName": "ziad",
+      "lastName": "alaa",
+      "email": "ziad@gmail.com",
+      "password": "12345678",
+      "id": 11
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is 2 + 2?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": 2,
+      "question": "What is the capital of France?",
+      "choices": [
+        "Berlin",
+        "London",
+        "Paris",
+        "Madrid"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "id": 3,
+      "question": "Which is the largest planet?",
+      "choices": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "id": 4,
+      "question": "What is the boiling point of water?",
+      "choices": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "120°C"
+      ],
+      "answer": "100°C"
+    },
+    {
+      "id": 5,
+      "question": "Who wrote 'Hamlet'?",
+      "choices": [
+        "Charles Dickens",
+        "J.K. Rowling",
+        "William Shakespeare",
+        "Mark Twain"
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "id": 6,
+      "question": "What is the smallest prime number?",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 7,
+      "question": "What is the square root of 81?",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "9"
+    },
+    {
+      "id": 8,
+      "question": "Which is the longest river?",
+      "choices": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "answer": "Nile"
+    },
+    {
+      "id": 9,
+      "question": "Who painted the Mona Lisa?",
+      "choices": [
+        "Vincent Van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": 10,
+      "question": "What is the capital of Japan?",
+      "choices": [
+        "Seoul",
+        "Beijing",
+        "Tokyo",
+        "Bangkok"
+      ],
+      "answer": "Tokyo"
+    },
+    {
+      "id": 11,
+      "question": "What is the hardest natural substance on Earth?",
+      "choices": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Platinum"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "id": 12,
+      "question": "What is the chemical symbol for gold?",
+      "choices": [
+        "Au",
+        "Ag",
+        "Pb",
+        "Fe"
+      ],
+      "answer": "Au"
+    },
+    {
+      "id": 13,
+      "question": "How many continents are there?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7"
+    },
+    {
+      "id": 14,
+      "question": "Who is known as the father of computers?",
+      "choices": [
+        "Albert Einstein",
+        "Charles Babbage",
+        "Isaac Newton",
+        "Nikola Tesla"
+      ],
+      "answer": "Charles Babbage"
+    },
+    {
+      "id": 15,
+      "question": "Which planet is known as the Red Planet?",
+      "choices": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": 16,
+      "question": "What is the capital of Australia?",
+      "choices": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "answer": "Canberra"
+    },
+    {
+      "id": 17,
+      "question": "What is the largest mammal?",
+      "choices": [
+        "Elephant",
+        "Blue Whale",
+        "Great White Shark",
+        "Giraffe"
+      ],
+      "answer": "Blue Whale"
+    },
+    {
+      "id": 18,
+      "question": "What is the speed of light?",
+      "choices": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "450,000 km/s",
+        "600,000 km/s"
+      ],
+      "answer": "300,000 km/s"
+    },
+    {
+      "id": 19,
+      "question": "Who invented the telephone?",
+      "choices": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Henry Ford"
+      ],
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "id": 20,
+      "question": "Which element is said to keep bones strong?",
+      "choices": [
+        "Hydrogen",
+        "Oxygen",
+        "Calcium",
+        "Nitrogen"
+      ],
+      "answer": "Calcium"
+    }
+  ]
+}
